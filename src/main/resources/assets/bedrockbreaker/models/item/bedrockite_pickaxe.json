@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "bedrockbreaker:item/bedrock_pickaxe"
+    "layer0": "bedrockbreaker:item/bedrockite_pickaxe"
   }
 }
