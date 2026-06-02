@@ -12,8 +12,8 @@ import com.miki.bedrockite.BedrockiteMod;
 
 public class BedrockiteModTabs {
 	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BedrockiteMod.MODID);
-	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BEDROCK_BREAKER = REGISTRY.register("bedrock_breaker",
-			() -> CreativeModeTab.builder().title(Component.translatable("item_group.bedrockite.bedrock_breaker")).icon(() -> new ItemStack(BedrockiteModItems.BEDROCK_SHARD.get())).displayItems((parameters, tabData) -> {
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BEDROCKITE = REGISTRY.register("bedrockite",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.bedrockite.bedrockite")).icon(() -> new ItemStack(BedrockiteModItems.BEDROCK_SHARD.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(BedrockiteModItems.BEDROCKITE_PICKAXE.get());
 				tabData.accept(BedrockiteModBlocks.CRACKED_BEDROCK.get().asItem());
 				tabData.accept(BedrockiteModItems.BEDROCK_NUGGET.get());
