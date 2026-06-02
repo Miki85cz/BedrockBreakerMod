@@ -3,28 +3,28 @@ loaderVersion="[1,)"
 license="Apache-2.0 license http://www.apache.org/licenses/LICENSE-2.0"
 
 [[mods]]
-modId="bedrockbreaker"
+modId="bedrockite"
 version="1.0.0"
-displayName="BedrockBreaker"
+displayName="Bedrockite"
 displayURL=""
 credits=""
 authors="Miki85cz"
 
 description='''
-This mod adds a pickaxe which is able to mine bedrock. It is hard to obtain and in survival you can only get cracked bedrock (which can be mined with anything)
+This mod adds a new material Bedrockite thwt you can use to make the Bedrockite pickaxe which is able to mine bedrock. It is hard to obtain and in survival you can only get cracked bedrock (which can be mined with anything)
 '''
 
 [[mixins]]
-config="bedrockbreaker.mixins.json"
+config="bedrockite.mixins.json"
 
-[[dependencies.bedrockbreaker]]
+[[dependencies.bedrockite]]
     modId="neoforge"
     type="required"
     versionRange="[21.0.1,)"
     ordering="AFTER"
     side="BOTH"
 
-[[dependencies.bedrockbreaker]]
+[[dependencies.bedrockite]]
     modId="minecraft"
     type="required"
     versionRange="[1.21, 1.21.2)"

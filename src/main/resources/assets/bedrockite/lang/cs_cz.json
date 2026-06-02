@@ -1,0 +1,12 @@
+{
+  "item.bedrockite.bedrockite_pickaxe": "Podložní Krumpáč",
+  "block.bedrockite.cracked_bedrock": "Nakřuplé Podloží",
+  "item.bedrockite.bedrock_nugget": "Kousek Podloží",
+  "item.bedrockite.bedrock_shard": "Úlomek Podloží",
+  "item.bedrockite.molten_bedrock": "Tavené Podloží",
+  "item.bedrockite.bedrockite_ingot": "Podložní Odlitek",
+  "item_group.bedrockite.bedrock_breaker": "Ničič Podloží",
+  "block.bedrockite.bedrock_ore": "Podložní Ruda",
+  "block.bedrockite.nether_bedrock_ore": "Podsvětní Podložní Ruda",
+  "block.bedrockite.bedrock_cracks": "Podloží Křupe"
+}

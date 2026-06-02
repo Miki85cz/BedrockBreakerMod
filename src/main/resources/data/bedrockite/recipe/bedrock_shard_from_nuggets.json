@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    },
+    {
+      "item": "bedrockite:bedrock_nugget"
+    }
+  ],
+  "result": {
+    "id": "bedrockite:bedrock_shard",
+    "count": 1
+  }
+}

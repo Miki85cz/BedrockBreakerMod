@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 1,
+  "cookingtime": 400,
+  "ingredient": {
+    "item": "bedrockite:bedrock_ore"
+  },
+  "result": {
+    "id": "bedrockite:bedrock_shard"
+  }
+}

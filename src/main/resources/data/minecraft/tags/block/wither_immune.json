@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "bedrockbreaker:cracked_bedrock",
-    "bedrockbreaker:bedrock_cracks"
+    "bedrockite:cracked_bedrock",
+    "bedrockite:bedrock_cracks"
   ]
 }

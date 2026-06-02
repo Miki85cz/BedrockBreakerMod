@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "bedrockbreaker:block/nether_bedrock_ore",
-    "particle": "bedrockbreaker:block/nether_bedrock_ore"
-  },
-  "render_type": "solid"
-}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bedrockite:item/bedrockite_pickaxe"
+  }
+}

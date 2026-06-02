@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bedrockite:block/bedrock_ore_top",
+    "up": "bedrockite:block/bedrock_ore_top",
+    "north": "bedrockite:block/bedrock_ore",
+    "east": "bedrockite:block/bedrock_ore",
+    "south": "bedrockite:block/bedrock_ore",
+    "west": "bedrockite:block/bedrock_ore",
+    "particle": "bedrockite:block/bedrock_ore_top"
+  },
+  "render_type": "solid"
+}

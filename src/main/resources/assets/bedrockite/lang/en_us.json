@@ -1,0 +1,12 @@
+{
+  "item.bedrockite.bedrockite_pickaxe": "Bedrockite Pickaxe",
+  "block.bedrockite.cracked_bedrock": "Cracked Bedrock",
+  "item.bedrockite.bedrock_nugget": "Bedrock Nugget",
+  "item.bedrockite.bedrock_shard": "Bedrock Shard",
+  "item.bedrockite.molten_bedrock": "Molten Bedrock",
+  "item.bedrockite.bedrockite_ingot": "Bedrockite Ingot",
+  "item_group.bedrockite.bedrock_breaker": "Bedrock Breaker",
+  "block.bedrockite.bedrock_ore": "Bedrock Ore",
+  "block.bedrockite.nether_bedrock_ore": "Nether Bedrock Ore",
+  "block.bedrockite.bedrock_cracks": "Bedrock Cracks"
+}
