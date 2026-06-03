@@ -14,6 +14,8 @@ description='''
 This mod adds a new material Bedrockite that you can use to make the Bedrockite pickaxe which is able to mine bedrock. It is hard to obtain and in survival you can only get cracked bedrock (which can be mined with anything)
 '''
 
+logoFile="logo.png"
+
 [[mixins]]
 config="bedrockite.mixins.json"
 
