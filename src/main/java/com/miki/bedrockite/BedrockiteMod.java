@@ -32,15 +32,15 @@ import java.util.Comparator;
 import it.unimi.dsi.fastutil.ints.IntObjectPair;
 import it.unimi.dsi.fastutil.ints.IntObjectImmutablePair;
 
-@Mod("bedrockite")
+@Mod(BedrockiteMod.MODID)
 public class BedrockiteMod {
 	public static final Logger LOGGER = LogManager.getLogger(BedrockiteMod.class);
 	public static final String MODID = "bedrockite";
 
 	public BedrockiteMod(IEventBus modEventBus) {
+		BedrockiteModBlocks.REGISTRY.register(modEventBus);
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
-		BedrockiteModBlocks.REGISTRY.register(modEventBus);
 		BedrockiteModItems.REGISTRY.register(modEventBus);
 		BedrockiteModTabs.REGISTRY.register(modEventBus);
 	}
